@@ -1,0 +1,45 @@
+{
+  "id": "617f720b-68f3-4f66-9544-d5448dc6e376",
+  "boutiqueName": "e",
+  "ownerName": "ee",
+  "city": "ee",
+  "state": "e",
+  "whatsapp": "4",
+  "instagram": "4",
+  "deliveryAvailability": "Domestic",
+  "codAvailable": false,
+  "gstAvailable": false,
+  "upiID": "r",
+  "termsAgreed": true,
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T16:37:43.693Z",
+  "products": [
+    {
+      "id": "c8068d77-e05b-4f7c-b107-1f1326341435",
+      "title": "dd",
+      "price": "3",
+      "category": "3",
+      "shortDescription": "",
+      "productImageURL": "d",
+      "createdAt": "2025-12-09T15:37:47.651Z"
+    },
+    {
+      "id": "bc411aed-dfc7-41e8-b205-947b9425906b",
+      "title": "3",
+      "price": "33",
+      "category": "3",
+      "shortDescription": "",
+      "productImageURL": "3",
+      "createdAt": "2025-12-09T15:37:57.017Z"
+    },
+    {
+      "id": "38599ce7-7821-44d9-86f8-cf4d3b9cd74f",
+      "title": "3",
+      "price": "3",
+      "category": "3",
+      "shortDescription": "",
+      "productImageURL": "3",
+      "createdAt": "2025-12-09T15:38:07.896Z"
+    }
+  ]
+}
