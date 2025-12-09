@@ -1,0 +1,73 @@
+{
+  "id": "08838a71-8cd0-4b2e-9711-638bff35ad06",
+  "boutiqueType": [
+    "Women's Wear"
+  ],
+  "products": [
+    {
+      "id": "6d5cef01-6b35-4b3c-8411-8c14d80ae343",
+      "title": "dewdw",
+      "mrp": "534",
+      "price": "4343",
+      "category": "Western",
+      "shortDescription": "e3rf34fr4efr4ef45gf4",
+      "images": [
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-09T18:21:25.702Z"
+    },
+    {
+      "id": "507f6ce6-c32c-4d31-b0c2-29acdfc07c3d",
+      "title": "dewdew",
+      "mrp": "4345",
+      "price": "4340",
+      "category": "Men's Shirt",
+      "shortDescription": "e3wedfcerfverfefr",
+      "images": [
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-09T18:21:54.810Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "fewf",
+  "ownerName": "fefeffefe",
+  "address": "fefe",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "534343",
+  "yearsInBusiness": "2",
+  "whatsapp": "98998989889",
+  "email": "5343",
+  "instagram": "frrfr",
+  "facebook": "frrfr",
+  "waChannel": "frrfr",
+  "youtube": "frrfr",
+  "codAvailable": true,
+  "gstAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "1-2 Days",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "feeeeeeeeeeeeeeeeeeeee",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T18:22:07.912Z"
+}
