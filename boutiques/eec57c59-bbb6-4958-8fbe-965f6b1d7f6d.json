@@ -1,0 +1,55 @@
+{
+  "id": "eec57c59-bbb6-4958-8fbe-965f6b1d7f6d",
+  "boutiqueType": [
+    "Women's Wear"
+  ],
+  "products": [
+    {
+      "id": "bf2f7b70-71b0-4f66-a386-bfbca555228f",
+      "title": "tere",
+      "mrp": "78675",
+      "price": "878",
+      "category": "Western",
+      "shortDescription": "rerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+      "images": [
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-09T18:18:09.101Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "de",
+  "ownerName": "e",
+  "address": "e",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "545554",
+  "yearsInBusiness": "1",
+  "whatsapp": "65454545454",
+  "email": "e324e32",
+  "instagram": "32423",
+  "facebook": "34324324",
+  "waChannel": "32432",
+  "youtube": "3432432",
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "1-2 Days",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "f",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T18:19:04.378Z"
+}
