@@ -1,0 +1,43 @@
+{
+  "id": "54fe74bb-af8f-4943-91ef-bf06354b65c7",
+  "boutiqueName": "aro",
+  "ownerName": "aro",
+  "city": "chennai",
+  "state": "tmailnadu",
+  "whatsapp": "9898989899",
+  "instagram": "@gmail.com",
+  "deliveryAvailability": "Domestic",
+  "codAvailable": true,
+  "gstAvailable": false,
+  "upiID": "upi@aro.com",
+  "createdAt": "2025-12-09T10:55:36.024Z",
+  "products": [
+    {
+      "id": "c1e33077-c75a-43ac-8ada-7293619940a9",
+      "title": "ai",
+      "price": "9000",
+      "category": "test",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T10:54:45.392Z"
+    },
+    {
+      "id": "e7d8c43f-bf08-4ab6-8554-412c111f1bb7",
+      "title": "test",
+      "price": "9000",
+      "category": "test",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T10:55:01.342Z"
+    },
+    {
+      "id": "48bde156-bc7c-4b64-9d20-88cde9fa942b",
+      "title": "test2",
+      "price": "90000",
+      "category": "test4",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T10:55:18.177Z"
+    }
+  ]
+}
