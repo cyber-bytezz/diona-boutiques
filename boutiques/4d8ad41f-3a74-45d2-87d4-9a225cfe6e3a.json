@@ -1,0 +1,54 @@
+{
+  "id": "4d8ad41f-3a74-45d2-87d4-9a225cfe6e3a",
+  "boutiqueName": "e",
+  "ownerName": "e",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "whatsapp": "ee",
+  "instagram": "e",
+  "deliveryAvailability": "Domestic",
+  "codAvailable": true,
+  "gstAvailable": false,
+  "upiID": "name@hdfcback.com",
+  "termsAgreed": true,
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T17:00:26.870Z",
+  "products": [
+    {
+      "id": "09ea5df8-b3d8-4bd0-a717-e39aa286cf37",
+      "title": "e",
+      "price": "900",
+      "category": "e",
+      "shortDescription": "",
+      "productImageURL": "e",
+      "createdAt": "2025-12-09T16:57:38.656Z"
+    },
+    {
+      "id": "959d493a-332b-447e-b21a-bd65c7e12958",
+      "title": "e",
+      "price": "90",
+      "category": "5",
+      "shortDescription": "",
+      "productImageURL": "e",
+      "createdAt": "2025-12-09T16:57:51.099Z"
+    },
+    {
+      "id": "dd94270c-331b-4342-8669-0a6c7974e94a",
+      "title": "t",
+      "price": "0",
+      "category": "f",
+      "shortDescription": "",
+      "productImageURL": "t",
+      "createdAt": "2025-12-09T16:59:03.307Z"
+    },
+    {
+      "id": "1f56c793-67ca-46f5-b061-4870892e854b",
+      "title": "2",
+      "price": "89",
+      "category": "43",
+      "shortDescription": "",
+      "productImageURL": "2",
+      "createdAt": "2025-12-09T16:59:26.324Z"
+    }
+  ]
+}
