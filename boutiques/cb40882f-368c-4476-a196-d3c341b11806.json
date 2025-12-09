@@ -1,0 +1,56 @@
+{
+  "id": "cb40882f-368c-4476-a196-d3c341b11806",
+  "boutiqueType": [
+    "Partywear"
+  ],
+  "products": [
+    {
+      "id": "23ea5938-ae40-41da-99f7-76dc9cf134dd",
+      "title": "fefw",
+      "mrp": "90",
+      "price": "89",
+      "category": "Western",
+      "shortDescription": "frfdewfe",
+      "images": [
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png",
+        "https://github.com/shadcn.png"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-09T17:33:27.560Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "e",
+  "ownerName": "d",
+  "address": "d",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "453433",
+  "yearsInBusiness": "5",
+  "whatsapp": "90909090890",
+  "email": "i@gmail.com",
+  "instagram": "feef",
+  "facebook": "fefrf",
+  "waChannel": "frfe",
+  "youtube": "fregre",
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "7 Days",
+  "returnPolicyAccepted": true,
+  "upiID": "d",
+  "digitalSignature": "a",
+  "termsAgreed": true,
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T17:34:06.025Z"
+}
