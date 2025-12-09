@@ -1,0 +1,45 @@
+{
+  "id": "a76349e7-c53e-4a1f-bdee-b2980d611abb",
+  "boutiqueName": "d",
+  "ownerName": "dd",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "whatsapp": "9000000000",
+  "instagram": "ioioooio",
+  "deliveryAvailability": "Domestic",
+  "codAvailable": true,
+  "gstAvailable": false,
+  "upiID": "re@gmail.com",
+  "termsAgreed": true,
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-09T16:52:53.400Z",
+  "products": [
+    {
+      "id": "1ba0d806-daa0-4391-b485-5a12c77c19cb",
+      "title": "e",
+      "price": "90",
+      "category": "ui",
+      "shortDescription": "",
+      "productImageURL": "r",
+      "createdAt": "2025-12-09T16:51:47.431Z"
+    },
+    {
+      "id": "613cb273-4386-42d2-acd8-a8ebb45f02ce",
+      "title": "e",
+      "price": "5",
+      "category": "fff",
+      "shortDescription": "",
+      "productImageURL": "re",
+      "createdAt": "2025-12-09T16:52:00.847Z"
+    },
+    {
+      "id": "30d7ae8f-2b68-4f1d-b2b8-574158be8b8f",
+      "title": "r",
+      "price": "4",
+      "category": "343",
+      "shortDescription": "",
+      "productImageURL": "i",
+      "createdAt": "2025-12-09T16:52:11.249Z"
+    }
+  ]
+}
