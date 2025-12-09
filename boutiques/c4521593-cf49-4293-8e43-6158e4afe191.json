@@ -1,0 +1,43 @@
+{
+  "id": "c4521593-cf49-4293-8e43-6158e4afe191",
+  "boutiqueName": "new",
+  "ownerName": "new2",
+  "city": "chennai",
+  "state": "tmailnadu",
+  "whatsapp": "939393939",
+  "instagram": "33339",
+  "deliveryAvailability": "Domestic",
+  "codAvailable": false,
+  "gstAvailable": false,
+  "upiID": "name@hadf.com",
+  "createdAt": "2025-12-09T11:17:40.547Z",
+  "products": [
+    {
+      "id": "a0416fe1-2d31-4859-bd36-d0a75555efbf",
+      "title": "ai",
+      "price": "9000",
+      "category": "io",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T11:17:12.383Z"
+    },
+    {
+      "id": "c4948c9d-5460-4a30-8be1-269c7e2b50ef",
+      "title": "io",
+      "price": "900",
+      "category": "new",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T11:17:24.282Z"
+    },
+    {
+      "id": "793fcb98-000b-427b-b8b0-941c17549ea2",
+      "title": "899",
+      "price": "900",
+      "category": "io",
+      "shortDescription": "",
+      "productImageURL": "https://github.com/shadcn.png",
+      "createdAt": "2025-12-09T11:17:35.631Z"
+    }
+  ]
+}
