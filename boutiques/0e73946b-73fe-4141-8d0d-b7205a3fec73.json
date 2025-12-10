@@ -1,0 +1,75 @@
+{
+  "id": "0e73946b-73fe-4141-8d0d-b7205a3fec73",
+  "boutiqueType": [
+    "Women's Wear"
+  ],
+  "products": [
+    {
+      "id": "a998d554-55bb-4d1c-8864-f05241fc7b4a",
+      "title": "Hhs",
+      "mrp": "36",
+      "price": "69",
+      "category": "Footwear",
+      "shortDescription": "Oi",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_4d9e3137/1765385951780_Screenshot_2025_12_09_21_32_25_98_1c337646f29875672b5a61192b9010f9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_4d9e3137/1765385955127_Screenshot_2025_12_09_21_32_25_98_1c337646f29875672b5a61192b9010f9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_4d9e3137/1765385957530_Screenshot_2025_12_09_21_32_25_98_1c337646f29875672b5a61192b9010f9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_4d9e3137/1765385960257_Screenshot_2025_12_09_21_32_25_98_1c337646f29875672b5a61192b9010f9.jpg"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-10T16:59:22.476Z"
+    },
+    {
+      "id": "48d451aa-05bb-484c-a1de-c8085429ac46",
+      "title": "Hhh",
+      "mrp": "66",
+      "price": "66",
+      "category": "Lehenga",
+      "shortDescription": "Bbb",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_954d05b2/1765386011898_Screenshot_2025_12_08_23_11_39_77_1c337646f29875672b5a61192b9010f9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_954d05b2/1765386014493_Screenshot_2025_12_08_21_35_27_88_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_954d05b2/1765386016571_Screenshot_2025_12_09_20_07_55_39_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_954d05b2/1765386019129_Screenshot_2025_12_09_20_08_55_72_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_954d05b2/1765386021689_Screenshot_2025_12_09_20_04_49_35_40deb401b9ffe8e1df2f1cc5ba480b12.jpg"
+      ],
+      "sizes": [
+        "S",
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-10T17:00:24.027Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "Au",
+  "ownerName": "Ai",
+  "address": "2/348,bajanai koil first cross street, kelambakkam 603103",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "603103",
+  "yearsInBusiness": "1",
+  "whatsapp": "9767",
+  "email": "chandru2021007@gmail.com",
+  "instagram": "Gvv",
+  "facebook": "Vbb",
+  "waChannel": "Vvv",
+  "youtube": "Vb",
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "3-5 Days",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "Aii",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-10T17:00:42.133Z"
+}
