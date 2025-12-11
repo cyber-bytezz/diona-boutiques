@@ -1,0 +1,74 @@
+{
+  "id": "6045e6a1-8cef-492e-a3f4-8f95b604f083",
+  "boutiqueType": [
+    "Men's Wear"
+  ],
+  "products": [
+    {
+      "id": "bd0192b8-73e9-4b6e-9ba6-1b46729eb5ba",
+      "title": "ef",
+      "mrp": "3",
+      "price": "2",
+      "category": "Kurti",
+      "shortDescription": "33333333333333333333333333333333",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_a9f6a576/1765464015382_ChatGPT_Image_Nov_29__2025__03_29_29_PM.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_a9f6a576/1765464018579_ChatGPT_Image_Nov_29__2025__03_29_21_PM.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_a9f6a576/1765464021939_download.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_a9f6a576/1765464023359_WhatsApp_Image_2025_11_27_at_22.25.46_58952c11.jpg"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T14:40:24.626Z"
+    },
+    {
+      "id": "34fd907d-86f7-4ece-9e13-7d1261be4803",
+      "title": "3",
+      "mrp": "5",
+      "price": "5",
+      "category": "Men's Shirt",
+      "shortDescription": "5rrrrrrrrrrrrrrrrrrrrr",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_ba53485c/1765464063318_download__2_.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_ba53485c/1765464064743_ChatGPT_Image_Nov_29__2025__03_29_21_PM.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_ba53485c/1765464067069_logo.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/boutique_ba53485c/1765464069305_ChatGPT_Image_Nov_23__2025__08_54_52_PM.png"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T14:41:10.846Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "whatsapp": "99999999999999",
+  "email": "jjjjjjjjjjjjjjj",
+  "instagram": "ooo",
+  "facebook": "jj",
+  "waChannel": "kllkm",
+  "youtube": "jnk",
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "Same Day",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "Aro Barath Chandru B",
+  "boutiqueName": "e",
+  "ownerName": "3",
+  "address": "3",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "3",
+  "yearsInBusiness": "3",
+  "description": "3",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-11T14:42:15.597Z"
+}
