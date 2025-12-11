@@ -96,6 +96,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-11T16:34:59.727Z"
+    },
+    {
+      "id": "268c4379-f504-4d85-9986-b4284c3b426c",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/268c4379-f504-4d85-9986-b4284c3b426c/1765470927232_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "title": "e",
+      "price": "5",
+      "mrp": "54",
+      "category": "Lehengas",
+      "shortDescription": "5555",
+      "sizes": [
+        "M"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:35:28.719Z"
     }
   ],
   "bankDetails": {
