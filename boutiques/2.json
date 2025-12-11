@@ -1,0 +1,52 @@
+{
+  "id": "2",
+  "boutiqueType": [
+    "Women's Wear",
+    "Partywear"
+  ],
+  "products": [
+    {
+      "id": "72f2477e-349e-4c45-8901-b58856d04a56",
+      "title": "3",
+      "mrp": "4",
+      "price": "2",
+      "category": "Western",
+      "shortDescription": "2",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/2/72f2477e-349e-4c45-8901-b58856d04a56/1765471594378_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "sizes": [
+        "L"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:46:35.778Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "2",
+  "ownerName": "2",
+  "address": "2",
+  "state": "Andaman and Nicobar Islands",
+  "city": "Port Blair",
+  "pincode": "2",
+  "yearsInBusiness": "2",
+  "whatsapp": "2",
+  "email": "2",
+  "codAvailable": true,
+  "shippingScope": "No, Limited States",
+  "dispatchTime": "1-2 Days",
+  "instagram": "2",
+  "facebook": "2",
+  "waChannel": "2",
+  "youtube": "2",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "Dklem",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-11T16:50:09.591Z"
+}
