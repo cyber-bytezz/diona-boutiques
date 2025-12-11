@@ -42,6 +42,23 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-11T15:09:53.706Z"
+    },
+    {
+      "id": "efb746f1-cde1-4a19-853e-9ecf933d8feb",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/efb746f1-cde1-4a19-853e-9ecf933d8feb/1765470689323_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/efb746f1-cde1-4a19-853e-9ecf933d8feb/1765470690762_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "title": "ed3",
+      "price": "2",
+      "mrp": "3",
+      "category": "Sarees",
+      "shortDescription": "3",
+      "sizes": [
+        "XXL"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:31:31.888Z"
     }
   ],
   "bankDetails": {
