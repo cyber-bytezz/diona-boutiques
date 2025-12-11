@@ -1,0 +1,76 @@
+{
+  "id": "aro",
+  "boutiqueType": [
+    "Women's Wear"
+  ],
+  "products": [
+    {
+      "id": "eb79eed1-0c20-4496-bb91-ce16123684f8",
+      "title": "klmklmml",
+      "mrp": "00",
+      "price": "98",
+      "category": "Jewelry",
+      "shortDescription": "kjkjnjknkj",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/eb79eed1-0c20-4496-bb91-ce16123684f8/1765465698691_download__1_.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/eb79eed1-0c20-4496-bb91-ce16123684f8/1765465700596_download__1_.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/eb79eed1-0c20-4496-bb91-ce16123684f8/1765465702075_ChatGPT_Image_Nov_29__2025__03_29_21_PM.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/eb79eed1-0c20-4496-bb91-ce16123684f8/1765465705376_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "sizes": [
+        "XL"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T15:08:26.803Z"
+    },
+    {
+      "id": "c19c8247-c806-47fb-8773-c4e9bc0608c7",
+      "title": "ijmlkm",
+      "mrp": "00",
+      "price": "099",
+      "category": "Lehenga",
+      "shortDescription": "jnjknkj",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/c19c8247-c806-47fb-8773-c4e9bc0608c7/1765465785826_WhatsApp_Image_2025_11_27_at_22.25.46_58952c11.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/c19c8247-c806-47fb-8773-c4e9bc0608c7/1765465787571_ChatGPT_Image_Nov_23__2025__09_36_49_PM.png",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/c19c8247-c806-47fb-8773-c4e9bc0608c7/1765465789587_WhatsApp_Image_2025_11_27_at_22.25.46_58952c11.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/c19c8247-c806-47fb-8773-c4e9bc0608c7/1765465791135_download__2_.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/c19c8247-c806-47fb-8773-c4e9bc0608c7/1765465792210_logo.png"
+      ],
+      "sizes": [
+        "XS"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T15:09:53.706Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "mlk",
+    "bankName": "kklklm",
+    "accountNumber": "lkjlk",
+    "ifscCode": "nkjn"
+  },
+  "boutiqueName": "aro",
+  "ownerName": "kj",
+  "address": "jj",
+  "state": "Jammu and Kashmir",
+  "city": "Jammu",
+  "pincode": "900009",
+  "yearsInBusiness": "9",
+  "description": "ijlki",
+  "whatsapp": "90009",
+  "email": "9i90i09i9i09",
+  "instagram": "okklk",
+  "facebook": "knkp09-",
+  "waChannel": "iojiojioilk",
+  "youtube": "iiloj",
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "1-2 Days",
+  "returnPolicyAccepted": true,
+  "upiID": "klkl",
+  "termsAgreed": true,
+  "digitalSignature": "km",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-11T15:10:33.462Z"
+}
