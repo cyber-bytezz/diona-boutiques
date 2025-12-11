@@ -112,6 +112,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-11T16:35:28.719Z"
+    },
+    {
+      "id": "f1e1994f-5dca-4345-95ba-7b567985cbd0",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/f1e1994f-5dca-4345-95ba-7b567985cbd0/1765471898602_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "title": "33",
+      "price": "3",
+      "mrp": "1",
+      "category": "Gowns",
+      "shortDescription": "3",
+      "sizes": [
+        "L"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:51:40.052Z"
     }
   ],
   "bankDetails": {
