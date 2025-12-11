@@ -1,0 +1,72 @@
+{
+  "id": "Hwhejehdhd",
+  "boutiqueType": [
+    "Men's Wear",
+    "Partywear",
+    "Others",
+    "Accessories",
+    "Western Wear",
+    "Kurtis",
+    "Kids Wear",
+    "Women's Wear",
+    "Sarees"
+  ],
+  "products": [
+    {
+      "id": "cb0771c6-789c-46b1-9df2-1b1ff167966d",
+      "title": "Hshshdbbd",
+      "mrp": "9499598",
+      "price": "495468",
+      "category": "Lehenga",
+      "shortDescription": "Heusnusnsdudud",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Hwhejehdhd/cb0771c6-789c-46b1-9df2-1b1ff167966d/1765470075900_1000250463.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Hwhejehdhd/cb0771c6-789c-46b1-9df2-1b1ff167966d/1765470078376_1000250462.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Hwhejehdhd/cb0771c6-789c-46b1-9df2-1b1ff167966d/1765470080470_1000250461.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Hwhejehdhd/cb0771c6-789c-46b1-9df2-1b1ff167966d/1765470082771_1000250420.jpg",
+        "Fhshdjddj"
+      ],
+      "sizes": [
+        "XS",
+        "M",
+        "S",
+        "L",
+        "XL",
+        "XXL",
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:21:25.686Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "Dbdbd",
+    "bankName": "Ndndhwhwh",
+    "accountNumber": "Hshshd",
+    "ifscCode": "Jsjndbd"
+  },
+  "boutiqueName": "Hwhejehdhd",
+  "ownerName": "Jejehejhd",
+  "address": "Sai Leo Nagar",
+  "pincode": "600044",
+  "state": "Chhattisgarh",
+  "city": "Raigarh",
+  "yearsInBusiness": "5",
+  "description": "Ywywuehehejdundhs",
+  "whatsapp": "Hdjjene",
+  "email": "vaishusmile0931@gmail.com",
+  "instagram": "Ehehe",
+  "facebook": "Hwhheye",
+  "waChannel": "Yeyehe",
+  "youtube": "Heheh",
+  "codAvailable": true,
+  "gstAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "7 Days",
+  "returnPolicyAccepted": true,
+  "upiID": "Hehenr",
+  "termsAgreed": true,
+  "digitalSignature": "Ndnbdc",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-11T16:21:55.000Z"
+}
