@@ -79,6 +79,23 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-11T16:32:46.587Z"
+    },
+    {
+      "id": "e90bd9c6-9c49-48c2-89e8-1a7d73ccd469",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/aro/e90bd9c6-9c49-48c2-89e8-1a7d73ccd469/1765470898207_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "title": "dff",
+      "price": "2",
+      "mrp": "3",
+      "category": "Kids Wear",
+      "shortDescription": "3",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T16:34:59.727Z"
     }
   ],
   "bankDetails": {
