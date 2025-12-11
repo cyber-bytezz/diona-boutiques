@@ -1,0 +1,53 @@
+{
+  "id": "ai",
+  "boutiqueType": [
+    "Women's Wear"
+  ],
+  "products": [
+    {
+      "id": "686870ed-e0a5-40e5-8571-2f53d913afb1",
+      "title": "j",
+      "mrp": "0",
+      "price": "9",
+      "category": "Western",
+      "shortDescription": "m",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/ai/686870ed-e0a5-40e5-8571-2f53d913afb1/1765468372081_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg",
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/ai/686870ed-e0a5-40e5-8571-2f53d913afb1/1765468373572_WhatsApp_Image_2025_12_10_at_20.29.24_81e484c9.jpg"
+      ],
+      "sizes": [
+        "M"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-11T15:52:54.991Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "address": "6/108-1,Anjikuttuvilai,Kanayakumari",
+  "pincode": "629702",
+  "boutiqueName": "ai",
+  "ownerName": "ai",
+  "yearsInBusiness": "4",
+  "description": "1",
+  "whatsapp": "9090900909de",
+  "email": "chandru2021007@gmail.com",
+  "instagram": "ioio",
+  "waChannel": "https://diona-onboarding.vercel.app/",
+  "facebook": "https://diona-onboarding.vercel.app/",
+  "youtube": "https://diona-onboarding.vercel.app/",
+  "codAvailable": true,
+  "shippingScope": "No, Limited States",
+  "dispatchTime": "1-2 Days",
+  "returnPolicyAccepted": true,
+  "termsAgreed": true,
+  "digitalSignature": "k",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-11T15:53:13.308Z"
+}
