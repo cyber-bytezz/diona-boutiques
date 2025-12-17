@@ -1,0 +1,49 @@
+{
+  "id": "Menba_clothing",
+  "boutiqueType": [
+    "Sarees"
+  ],
+  "products": [
+    {
+      "id": "11c116fc-4830-4105-b27d-9bcaae0c74d1",
+      "title": "Cotton saree ",
+      "mrp": "850",
+      "price": "799",
+      "category": "Women's Saree",
+      "shortDescription": "Premium Chettinad cotton saree \nWithout blouse \n5.5 meters \n\nBeautiful red with violet colour border \n",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/11c116fc-4830-4105-b27d-9bcaae0c74d1/1765972085534_1000040965.jpg"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-17T11:48:07.769Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "bankName": "",
+    "accountNumber": "",
+    "ifscCode": ""
+  },
+  "boutiqueName": "Menba clothing ",
+  "ownerName": "Krishnan c",
+  "address": "M2/31 mullai Nagar housing unit",
+  "state": "Tamil Nadu",
+  "city": "Madurai",
+  "pincode": "625531",
+  "yearsInBusiness": "1",
+  "description": "We are into sales of authentic kanchi cotton and Chettinad cotton sarees ",
+  "whatsapp": "7010362095",
+  "email": "menbasarees@gmail.com",
+  "instagram": "menba_clothing",
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "3-5 Days",
+  "returnPolicyAccepted": true,
+  "upiID": "",
+  "termsAgreed": true,
+  "digitalSignature": "Santhi chandran",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-17T11:54:20.438Z"
+}
