@@ -1,0 +1,70 @@
+{
+  "id": "Shri_vijayalakshmi_silks",
+  "boutiqueType": [
+    "Sarees"
+  ],
+  "products": [
+    {
+      "id": "016f74d5-4c7d-4f3f-a7a2-d8da3faaf22b",
+      "title": "Soft silk saree ",
+      "mrp": "650",
+      "price": "799",
+      "category": "Women's Saree",
+      "shortDescription": "Soft Silk Saree - Premium Collection \n100+ Stunning Colours | Unique Patterns | Beautiful Designs Saree Highlights: Soft Silk Fabric - lightweight & comfortable .Elegant body design with trendy motifs Contrast rich pallu & matching blouse Perfect for functions, parties & gifting \n\nMultiple colour options available",
+      "images": [
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed"
+      ],
+      "sizes": [],
+      "inStock": true,
+      "createdAt": "2025-12-18T05:17:53.239Z"
+    },
+    {
+      "id": "32d23a7d-0460-43db-978f-0cc4a5bafbf2",
+      "title": "Soft silk saree ",
+      "mrp": "650",
+      "price": "799",
+      "category": "Women's Saree",
+      "shortDescription": "Soft Silk Saree - Premium Collection\n\n 100+ Stunning Colours | Unique Patterns | Beautiful Designs Saree Highlights: Soft Silk Fabric - lightweight & comfortable Tap to enter Elegant body design with trendy motifs Contrast rich pallu & matching blouse Perfect for functions, parties & gifting \n\nMultiple colour options available",
+      "images": [
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed",
+        "https://via.placeholder.com/300?text=Upload+Failed"
+      ],
+      "sizes": [],
+      "inStock": true,
+      "createdAt": "2025-12-18T05:19:40.635Z"
+    }
+  ],
+  "bankDetails": {
+    "accountName": "R.PAVITHRA",
+    "bankName": "Idbi ",
+    "accountNumber": "0253104000193559",
+    "ifscCode": "IBKL0000253"
+  },
+  "boutiqueName": "Shri vijayalakshmi silks ",
+  "ownerName": "K.B.RANGARAJAN ",
+  "address": "7, Seshadri Palayam Street, Ennaikaran, Kanchipuram, Arappanacheri, Tamil Nadu 631501",
+  "state": "Tamil Nadu",
+  "city": "Chennai",
+  "pincode": "631501",
+  "yearsInBusiness": "15",
+  "whatsapp": "8248792119",
+  "email": "Shrivijayalakshmisilkskpm@gmail.com",
+  "instagram": "@Shri_vijayalakshmi_silks",
+  "gstAvailable": true,
+  "codAvailable": true,
+  "shippingScope": "Yes, All India",
+  "dispatchTime": "1-2 Days",
+  "returnPolicyAccepted": true,
+  "upiID": "sakthipavo78@okicici",
+  "termsAgreed": true,
+  "digitalSignature": "Pavithra ",
+  "onboardingCompleted": true,
+  "createdAt": "2025-12-18T05:23:33.872Z"
+}
