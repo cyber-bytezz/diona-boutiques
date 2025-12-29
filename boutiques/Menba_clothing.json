@@ -69,6 +69,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-29T16:56:30.463Z"
+    },
+    {
+      "id": "ab11434c-7fa5-4fd8-81cd-9b0ea4df6eb3",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/ab11434c-7fa5-4fd8-81cd-9b0ea4df6eb3/1767027519833_1000038216.jpg"
+      ],
+      "title": "Chettinad Cotton saree ",
+      "price": "829",
+      "mrp": "945",
+      "category": "Women's Saree",
+      "shortDescription": "Pure cotton saree\nWithout blouse \n\nPure black with golden zari border ",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-29T16:58:41.954Z"
     }
   ],
   "bankDetails": {
