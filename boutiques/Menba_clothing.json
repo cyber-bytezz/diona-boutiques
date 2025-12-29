@@ -53,6 +53,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-29T16:54:21.952Z"
+    },
+    {
+      "id": "ab7c92bf-28de-44ea-b814-20c1acf2abcd",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/ab7c92bf-28de-44ea-b814-20c1acf2abcd/1767027388564_1000038106.jpg"
+      ],
+      "title": "Pure cotton saree",
+      "price": "1099",
+      "mrp": "1399",
+      "category": "Women's Saree",
+      "shortDescription": "Pure Cotton saree \nWith running blouse \n6.2 Mtrs\n\nMustard yellow with black zari border ",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-29T16:56:30.463Z"
     }
   ],
   "bankDetails": {
