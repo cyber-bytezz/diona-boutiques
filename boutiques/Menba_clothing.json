@@ -7,24 +7,20 @@
   "ownerName": "Krishnan c",
   "description": "We are into sales of authentic kanchi cotton and Chettinad cotton sarees",
   "yearsInBusiness": "1",
-
   "address": "M2/31 mullai Nagar housing unit",
   "city": "Madurai",
   "state": "Tamil Nadu",
   "pincode": "625531",
-
   "contact": {
     "whatsapp": "7010362095",
     "email": "menbasarees@gmail.com",
     "instagram": "menba_clothing"
   },
-
   "shippingDetails": {
     "shippingScope": "Yes, All India",
     "dispatchTime": "3-5 Days",
     "returnPolicyAccepted": true
   },
-
   "products": [
     {
       "id": "11c116fc-4830-4105-b27d-9bcaae0c74d1",
@@ -41,9 +37,24 @@
         "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/11c116fc-4830-4105-b27d-9bcaae0c74d1/1765972085534_1000040965.jpg"
       ],
       "createdAt": "2025-12-17T11:48:07.769Z"
+    },
+    {
+      "id": "1e4ec2c6-fb12-4aff-a8d0-9e978470c57a",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/1e4ec2c6-fb12-4aff-a8d0-9e978470c57a/1767027250692_1000038372.jpg"
+      ],
+      "title": "Pure cotton rettapetta saree ",
+      "price": "1199",
+      "mrp": "1399",
+      "category": "Women's Saree",
+      "shortDescription": "Pure cotton rettapetta border saree \nWith running blouse \n6.2 metres \nGreen body with orange border",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-29T16:54:21.952Z"
     }
   ],
-
   "bankDetails": {
     "accountName": "",
     "bankName": "",
@@ -51,12 +62,10 @@
     "ifscCode": "",
     "upiID": ""
   },
-
   "legal": {
     "termsAgreed": true,
     "digitalSignature": "Santhi chandran"
   },
-
   "onboardingCompleted": true,
   "createdAt": "2025-12-17T11:54:20.438Z"
 }
