@@ -101,6 +101,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-29T17:00:26.310Z"
+    },
+    {
+      "id": "dd999753-a67d-459d-917d-710878c3cbb9",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/dd999753-a67d-459d-917d-710878c3cbb9/1767027734119_1000038134.jpg"
+      ],
+      "title": "Sungudi cotton saree ",
+      "price": "999",
+      "mrp": "1299",
+      "category": "Women's Saree",
+      "shortDescription": "Sungudi cotton saree \nWith Running blouse \n\nKanagambara colour saree",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-29T17:02:46.172Z"
     }
   ],
   "bankDetails": {
