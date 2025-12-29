@@ -85,6 +85,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-29T16:58:41.954Z"
+    },
+    {
+      "id": "5c3365c6-6159-43e4-aabc-53926d0595bd",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/5c3365c6-6159-43e4-aabc-53926d0595bd/1767027620328_1000038138.jpg"
+      ],
+      "title": "Pure cotton rettapetta border ",
+      "price": "1199",
+      "mrp": "1399",
+      "category": "Women's Saree",
+      "shortDescription": "Pure cotton rettapetta border saree \nWith running blouse \n\nGrey body with black zari rettapetta border ",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-29T17:00:26.310Z"
     }
   ],
   "bankDetails": {
