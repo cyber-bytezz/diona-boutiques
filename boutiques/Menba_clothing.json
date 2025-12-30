@@ -149,6 +149,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-30T00:35:08.064Z"
+    },
+    {
+      "id": "8774e60f-855f-45d1-88e9-abe030d79e5c",
+      "images": [
+        "https://via.placeholder.com/300?text=Upload+Failed"
+      ],
+      "title": "Pure cotton Ganga Jamuna border",
+      "price": "810",
+      "mrp": "935",
+      "category": "Women's Saree",
+      "shortDescription": "Pure Chettinad cotton \nWithout blouse \n5.5 Mtrs\n\nCoffee brown body with Green and navy blue border",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-30T00:37:45.435Z"
     }
   ],
   "bankDetails": {
