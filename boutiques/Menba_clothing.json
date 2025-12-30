@@ -117,6 +117,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-29T17:02:46.172Z"
+    },
+    {
+      "id": "4b74697c-38b8-4ffc-ae6d-5b807e8f2976",
+      "images": [
+        "https://raw.githubusercontent.com/cyber-bytezz/diona-boutiques/main/images/Menba_clothing/4b74697c-38b8-4ffc-ae6d-5b807e8f2976/1767054831863_1000041323.jpg"
+      ],
+      "title": "Pure cotton fancy thread border saree ",
+      "price": "1050",
+      "mrp": "1250",
+      "category": "Women's Saree",
+      "shortDescription": "Pure cotton fancy thread border \nBrown body with small maroon thread border \nWith running blouse \n",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-30T00:33:53.890Z"
     }
   ],
   "bankDetails": {
