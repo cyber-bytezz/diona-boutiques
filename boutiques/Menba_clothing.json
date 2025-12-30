@@ -133,6 +133,22 @@
       ],
       "inStock": true,
       "createdAt": "2025-12-30T00:33:53.890Z"
+    },
+    {
+      "id": "f03408c4-299e-4b1d-918a-c263cecdd614",
+      "images": [
+        "https://via.placeholder.com/300?text=Upload+Failed"
+      ],
+      "title": "Pure cotton fancy thread border saree ",
+      "price": "1050",
+      "mrp": "1250",
+      "category": "Women's Saree",
+      "shortDescription": "Pure cotton fancy thread border saree \nRani pink body with mustard yellow small border \nWith running blouse \n6.2 mtrs",
+      "sizes": [
+        "Free Size"
+      ],
+      "inStock": true,
+      "createdAt": "2025-12-30T00:35:08.064Z"
     }
   ],
   "bankDetails": {
